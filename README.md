@@ -40,9 +40,9 @@ BACKEND
 
 
 
-LOGIN
+LOGIN DETAILS
 
-Manage Account - has permission to edit and to view all the check-ins
+Manager Account - has permission to edit and to view all the check-ins
 
 &nbsp;Username: bob
 
