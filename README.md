@@ -40,7 +40,7 @@ BACKEND
 
 
 
-LOGIN DETAILS
+# LOGIN DETAILS
 
 Manager Account - has permission to edit and to view all the check-ins
 
