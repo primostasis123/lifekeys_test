@@ -22,11 +22,13 @@ BACKEND
 
 \- Open the `MentalHealthCheckinApi.sln` in Visual Studio
 
-\- Check `appsettings.json` and make sure you have the correct database details; you can change the username/password when necessary
+\- Check `appsettings.json` and make sure you have the correct database details; you can change the username/password when necessary it's better to use Postgres since that is the extension file installed in project
 
 \- Go to \*\*Tools > NuGet Package Manager > Package Manager Console\*\*
 
-\- Run `dotnet ef migrations add InitialCreate` to create a table in the database
+\- Run `dotnet ef migrations add InitialCreate` 
+
+\- Run `dotnet ef database update`
 
 \- Run the app; it will automatically migrate and seed the data
 
