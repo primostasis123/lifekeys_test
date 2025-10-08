@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE folders
+.vs/
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+.env.*
+
+# App settings (local/dev only)
+appsettings.Development.json
+appsettings.Local.json
+
+# Publish output
+dist/
+build/
+_publish/
+
+# Test results
+TestResults/
+coverage/
+
