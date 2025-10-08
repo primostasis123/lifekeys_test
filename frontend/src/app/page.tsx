@@ -63,7 +63,7 @@ export default function Dashboard() {
               <div>
                 <h1 className="text-lg font-bold text-slate-900">Dashboard</h1>
                 <p className="text-xs text-slate-500">
-                  Track your daily progress
+                  Checkins daily data
                 </p>
               </div>
             </div>
