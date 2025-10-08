@@ -2,7 +2,7 @@ docs: add detailed setup instructions for frontend and backend in README
 
 
 
-FRONTEND
+# FRONTEND
 
 \- Go to the frontend folder
 
@@ -16,7 +16,7 @@ FRONTEND
 
 
 
-BACKEND
+# BACKEND
 
 \- Go to `backend\\MentalHealthCheckinApi`
 
