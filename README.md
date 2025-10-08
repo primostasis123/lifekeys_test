@@ -31,6 +31,7 @@ BACKEND
 \- Run the app; it will automatically migrate and seed the data
 
 \- Make sure the API runs under https://localhost:7216/
+- Try to open https://localhost:7216/swagger/index.html
 
 
 
