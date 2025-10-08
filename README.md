@@ -22,6 +22,8 @@ BACKEND
 
 \- Open the `MentalHealthCheckinApi.sln` in Visual Studio
 
+\- Build the application first to make sure everything is fine
+
 \- Check `appsettings.json` and make sure you have the correct database details; you can change the username/password when necessary it's better to use Postgres since that is the extension file installed in project
 
 \- Go to \*\*Tools > NuGet Package Manager > Package Manager Console\*\*
@@ -33,7 +35,8 @@ BACKEND
 \- Run the app; it will automatically migrate and seed the data
 
 \- Make sure the API runs under https://localhost:7216/
-- Try to open https://localhost:7216/swagger/index.html
+
+\- Try to open https://localhost:7216/swagger/index.html
 
 
 
